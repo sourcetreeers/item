@@ -489,6 +489,3 @@ MIT License - 自由使用和修改
 
 ---
 
-**作者**: CodeBuddy AI Assistant  
-**版本**: 1.0.0  
-**更新日期**: 2024-06-25
