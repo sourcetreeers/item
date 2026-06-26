@@ -1,0 +1,1 @@
+{"name":"typescript-logger-system","version":"1.0.0","description":"模块化 TypeScript 日志系统 - 支持多等级、多输出目标、可扩展架构","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","start":"node dist/examples/usage-example.js"},"keywords":["logger","typescript","logging"],"author":"","license":"MIT","devDependencies":{"@types/node":"^26.0.1","typescript":"^5.3.0"}}
